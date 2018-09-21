@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="needit_staging1" max_length="40" name="x_58872_needit_needit_staging1" type="collection">
+        <element attributes="import_attribute_name=25.0 (C),edge_encryption_enabled=true" label="25.0 (C)" max_length="40" name="u_25_0__c_" type="string"/>
+        <element attributes="import_attribute_name=3.0 (D),edge_encryption_enabled=true" label="3.0 (D)" max_length="40" name="u_3_0__d_" type="string"/>
+        <element attributes="import_attribute_name=Banglore,edge_encryption_enabled=true" label="Banglore" max_length="40" name="u_banglore" type="string"/>
+        <element attributes="import_attribute_name=Chennai,edge_encryption_enabled=true" label="Chennai" max_length="40" name="u_chennai" type="string"/>
+        <element attributes="import_attribute_name=Credit,edge_encryption_enabled=true" label="Credit" max_length="40" name="u_credit" type="string"/>
+        <element attributes="import_attribute_name=F,edge_encryption_enabled=true" label="F" max_length="40" name="u_f" type="string"/>
+    </element>
+</database>
